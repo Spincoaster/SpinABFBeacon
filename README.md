@@ -1,3 +1,12 @@
+SpinABFBeacon
+=========
+
+SpinABFBeacon is CocoaPods of ABFBeacon.
+
+Please see below URL for ABFBeacon. <br/>
+https://github.com/access-company/ABFBeacon
+
+
 ABFBeacon
 =========
 
