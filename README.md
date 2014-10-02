@@ -7,6 +7,14 @@ Please see below URL for ABFBeacon. <br/>
 https://github.com/access-company/ABFBeacon
 
 
+#### Podfile
+```
+platform :ios, '7.0'
+pod 'SpinABFBeacon', :git => 'https://github.com/Spincoaster/SpinABFBeacon.git'
+```
+
+
+
 ABFBeacon
 =========
 
